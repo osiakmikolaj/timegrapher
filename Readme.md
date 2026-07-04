@@ -9,7 +9,7 @@ Projekt składa się z dwóch integralnych części:
 ## 🛠 Wymagania wstępne (Prerequisites)
 
 Dostarczone oprogramowanie mikrokontrolera jest już skompilowane. Aby uruchomić interfejs PC, wymagane jest jedynie:
-* **Dla aplikacji PC:** Środowisko `Python 3.10` (lub nowszy).
+* Środowisko `Python 3.10` (lub nowszy).
 
 ---
 
