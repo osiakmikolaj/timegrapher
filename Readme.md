@@ -36,3 +36,23 @@ W tym katalogu znajduje się aplikacja okienkowa napisana w języku Python. Zast
 1. Przejdź do folderu z aplikacją:
    ```bash
    cd timegrapher
+2. Utwórz wirtualne środowisko Pythona (wykonuje się tylko raz):
+    ```bash
+    python3 -m venv .venv
+3. Aktywuj środowisko wirtualne:
+    - macOS / Linux: 
+    ```bash
+    source .venv/bin/activate
+    ```
+    - Windows: 
+    ```bash
+    .venv\Scripts\activate 
+    ```
+4. Zainstaluj wymagane biblioteki z pliku konfiguracyjnego:
+    ```bash
+    pip install -r requirements.txt
+    ```
+5. Uruchom główny skrypt aplikacji:
+    ```bash
+    python main.py
+    ```
