@@ -23,7 +23,7 @@ W tym katalogu znajduje się gotowy, skompilowany plik z oprogramowaniem (format
 1. Odłącz Raspberry Pi Pico od komputera.
 2. Wciśnij i przytrzymaj biały przycisk **BOOTSEL** na płytce Pico.
 3. Trzymając przycisk, podłącz Pico do komputera kablem USB, a następnie zwolnij przycisk. Pico pojawi się w systemie jako dysk masowy (np. `RPI-RP2`).
-4. Wejdź do folderu `timegrapher_firmware` i skopiuj znajdujący się tam plik z rozszerzeniem `.uf2` (np. `timegrapher_firmware.uf2`) bezpośrednio na dysk Pico. Urządzenie zrestartuje się automatycznie i będzie gotowe do pracy.
+4. Skopiuj plik z rozszerzeniem `.uf2` (`timegrapher_firmware.uf2`) bezpośrednio na dysk Pico. Urządzenie zrestartuje się automatycznie i będzie gotowe do pracy.
 
 ---
 
